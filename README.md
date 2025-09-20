@@ -8,4 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30" alt="perl logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="30" alt="freebsd logo"  />
 </div>
